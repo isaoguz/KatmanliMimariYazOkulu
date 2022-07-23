@@ -1,0 +1,16 @@
+Entity_Layer
+--------------------------
+Varlık katmanı, değişkenleri tanımladığımız sınıf.
+
+
+Data Acces Layer
+---------------------------------
+Veri erişim katmanı.
+
+
+BusinessLogicLayer
+----------------------------------
+Kontrol Sağlama
+iş mantık katmanı
+DataAccesLayer da yapılacak işlemler için kısıtlama vs getirir.
+
